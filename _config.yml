@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Eli Wyle"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "California"
   employer         : "Red Brick University"
