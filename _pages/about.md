@@ -27,6 +27,4 @@ unified empire. The second theory is that subjects of these northern dynasties r
 policies through their own marital strategies, which in turn created distinct groups of elite northern
 families.
 
-[^1] By non-Chinese, I mean both culturally and by descent. Northern rulers who claimed descent from a noble and well-established Chinese lineage either
-fabricated their lineage wholesale or had lived for generations in northern borderlands to the point where their families were indistinguishable from their
-steppe compatriots.
+[^1]: By non-Chinese, I mean both culturally and by descent. Northern rulers who claimed descent from a noble and well-established Chinese lineage either fabricated their lineage wholesale or had lived for generations in northern borderlands to the point where their families were indistinguishable from their steppe compatriots.
