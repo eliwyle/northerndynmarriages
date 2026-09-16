@@ -20,7 +20,7 @@ The *muzhi* (墓誌), or inscribed epitaphs, and *muzhiming* (墓誌銘), or ent
 
 ![Rubbing of the epitaph of Rouran Princess Chidilian](https://github.com/eliwyle/northerndynmarriages/blob/master/images/Rurugongzhumuzhi.png)
 
- *Rubbing of the Rurugongzhumuzhi (茹茹公主墓誌), the entombed epitaph of Rouran Princess Chidilian. Xin Zhongguo chu tu mu zhi, Hebei 新中國出土墓誌.河北. Wen wu chu ban she, 2004*
+##### *Rubbing of the Rurugongzhumuzhi (茹茹公主墓誌), the entombed epitaph of Rouran Princess Chidilian. Xin Zhongguo chu tu mu zhi, Hebei 新中國出土墓誌.河北. Wen wu chu ban she, 2004*
  
 <p class="text-center"><strong>Eastern Wei epitaph of Lady Lü (Chidilian), Princess of the Rouran, wife of Duke Gao (Zhan), Dynasty-Founding Duke of Zhangguang Prefecture, Commander Unequalled in Honor, and Cavalry General-in-Chief</strong><br>
 東魏驃騎大將軍開府儀同三司長廣郡開國公高公（湛）妻茹茹公主閭氏（叱地連）墓誌銘</p>
