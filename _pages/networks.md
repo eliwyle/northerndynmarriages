@@ -14,7 +14,16 @@ toc: false
 
 The networks on this site were created with the use of Gephi. They model the marriage networks of the Northern Dynasties elite, built from a database of over nine thousand individuals.
 
-*Content coming soon.*
+---
+
+# Non-imperial marriage networks of Northern Dynasties elite families
+ <p>Interactive network of Northern Dynasties marriages. Use the mouse to zoom, pan, and hover over nodes.</p>
+  <iframe
+    src="https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Feliwyle.github.io%2Fnortherndynmarriages%2Ff
+  iles%2Fnetwork-f60c0f46-9d8.gexf"
+    style="width: 100%; height: 800px; border: none;"
+    allowfullscreen>
+  </iframe>
 
 
 
