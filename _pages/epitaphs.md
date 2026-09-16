@@ -44,8 +44,7 @@ Thereupon, we engrave on the stele of the Underworld, such that it shall hand do
 </div>
 </div>
 
-![Rubbing of the epitaph of Rouran Princess Chidilian](github.com/eliwyle/northerndynmarriages/images/Rurugongzhumuzhi.png)
-
+![Rubbing of the epitaph of Rouran Princess Chidilian](https://github.com/eliwyle/northerndynmarriages/blob/master/images/Rurugongzhumuzhi.png)
  *Rubbing of the Rurugongzhumuzhi (茹茹公主墓誌), the entombed epitaph of Rouran Princess Chidilian. Xin Zhongguo chu tu mu zhi, Hebei 新中國出土墓誌.河北. Wen wu chu ban she, 2004*
 
 [^1]: For further discussion of this reappraisal of late Han, see Xu Zhuoyun and Jack L. Dull, *Han Agriculture: The Formation of Early Chinese Agrarian Economy, 206 B.C.–A.D. 220* (University of Washington Press, 1980); Chen Chi-yun, "Han Dynasty China: Economy, Society, and State Power," *T'oung Pao* 70 (January 1, 1984): 127–48. For the rise of powerful local families, see Wolfram Eberhard, *Conquerors and Rulers: Social Forces in Medieval China* (Brill, 1952); Patricia Buckley Ebrey, *The Aristocratic Families of Early Imperial China: A Case Study of the Po-ling Ts'ui Family* (Cambridge University Press, 1978).
