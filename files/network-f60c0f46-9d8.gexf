@@ -1,0 +1,3733 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2026-09-16">
+    <creator>Gephi 0.11.3</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="regionoforigin" title="regionoforigin" type="string"/>
+      <attribute id="surname" title="surname" type="string"/>
+      <attribute id="total" title="total" type="integer"/>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="dynasty" title="dynasty" type="string"/>
+      <attribute id="period" title="period" type="integer"/>
+    </attributes>
+    <nodes>
+      <node id="1" label="Hejian Xing">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hejian"/>
+          <attvalue for="surname" value="Xing"/>
+          <attvalue for="total" value="6"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-617.9388" y="58.6716"/>
+        <viz:color r="0" g="11" b="244"/>
+      </node>
+      <node id="3" label="Bohai Li">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Bohai"/>
+          <attvalue for="surname" value="Li"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-690.18396" y="-55.741547"/>
+        <viz:color r="44" g="19" b="255"/>
+      </node>
+      <node id="6" label="Zhaojun Li">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Zhaojun"/>
+          <attvalue for="surname" value="Li"/>
+          <attvalue for="total" value="46"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-313.2074" y="262.0832"/>
+        <viz:color r="13" g="5" b="255"/>
+      </node>
+      <node id="10" label="Dong Qinghe Fang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Dong Qinghe"/>
+          <attvalue for="surname" value="Fang"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-727.2508" y="44.74489"/>
+        <viz:color r="141" g="114" b="0"/>
+      </node>
+      <node id="51" label="Fanyang Lu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Fanyang"/>
+          <attvalue for="surname" value="Lu"/>
+          <attvalue for="total" value="21"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-301.2732" y="1219.1831"/>
+        <viz:color r="0" g="8" b="255"/>
+      </node>
+      <node id="55" label="Xingyang Zheng">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Xingyang"/>
+          <attvalue for="surname" value="Zheng"/>
+          <attvalue for="total" value="16"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="367.51993" y="364.7147"/>
+        <viz:color r="0" g="194" b="188"/>
+      </node>
+      <node id="85" label="Boling Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Boling"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="11"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="146.7631" y="-259.47763"/>
+        <viz:color r="0" g="24" b="255"/>
+      </node>
+      <node id="130" label="Boling Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Boling"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="18"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="585.0598" y="1088.5061"/>
+        <viz:color r="0" g="24" b="255"/>
+      </node>
+      <node id="132" label="Qinghe Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-447.1907" y="-85.11916"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="154" label="Xingyang Zheng">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Xingyang"/>
+          <attvalue for="surname" value="Zheng"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="690.44305" y="1026.95"/>
+        <viz:color r="0" g="194" b="188"/>
+      </node>
+      <node id="155" label="Fanyang Lu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Fanyang"/>
+          <attvalue for="surname" value="Lu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="734.816" y="1136.5868"/>
+        <viz:color r="0" g="8" b="255"/>
+      </node>
+      <node id="207" label="Guangping Song">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Guangping"/>
+          <attvalue for="surname" value="Song"/>
+          <attvalue for="total" value="7"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1143.8999" y="-370.7814"/>
+        <viz:color r="8" g="8" b="255"/>
+      </node>
+      <node id="224" label="Boling Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Boling"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-517.69037" y="273.65973"/>
+        <viz:color r="0" g="24" b="255"/>
+      </node>
+      <node id="225" label="Boling Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Boling"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-332.58356" y="-27.99121"/>
+        <viz:color r="0" g="24" b="255"/>
+      </node>
+      <node id="576" label="Jingzhao Wei">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Jingzhao"/>
+          <attvalue for="surname" value="Wei"/>
+          <attvalue for="total" value="14"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="70.42786" y="-1269.3202"/>
+        <viz:color r="236" g="203" b="0"/>
+      </node>
+      <node id="579" label="Fanyang Lu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Fanyang"/>
+          <attvalue for="surname" value="Lu"/>
+          <attvalue for="total" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="69.98797" y="-761.8023"/>
+        <viz:color r="0" g="8" b="255"/>
+      </node>
+      <node id="585" label="Xingyang Mao">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Xingyang"/>
+          <attvalue for="surname" value="Mao"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-34.82014" y="-1278.2732"/>
+        <viz:color r="0" g="194" b="188"/>
+      </node>
+      <node id="587" label="Longxi Xing">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Longxi"/>
+          <attvalue for="surname" value="Xing"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="69.85098" y="-1418.773"/>
+        <viz:color r="255" g="176" b="3"/>
+      </node>
+      <node id="609" label="Wujun Lu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Wujun"/>
+          <attvalue for="surname" value="Lu"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2216.0754" y="1052.439"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="627" label="Hongnong Yang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hongnong"/>
+          <attvalue for="surname" value="Yang"/>
+          <attvalue for="total" value="17"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="688.43713" y="-1538.789"/>
+        <viz:color r="223" g="192" b="0"/>
+      </node>
+      <node id="631" label="Fufeng Dou">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Fufeng"/>
+          <attvalue for="surname" value="Dou"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="949.7523" y="-1646.3713"/>
+        <viz:color r="0" g="23" b="244"/>
+      </node>
+      <node id="635" label="Taiyuan Wang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Taiyuan"/>
+          <attvalue for="surname" value="Wang"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="791.04333" y="-1449.0961"/>
+        <viz:color r="44" g="215" b="0"/>
+      </node>
+      <node id="791" label="Fanyang Lu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Fanyang"/>
+          <attvalue for="surname" value="Lu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-53.80978" y="33.264214"/>
+        <viz:color r="0" g="8" b="255"/>
+      </node>
+      <node id="1308" label="Bohai Gao">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Bohai"/>
+          <attvalue for="surname" value="Gao"/>
+          <attvalue for="total" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="591.7071" y="-354.01773"/>
+        <viz:color r="44" g="19" b="255"/>
+      </node>
+      <node id="1314" label="Runan Ai（Gai）">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Runan"/>
+          <attvalue for="surname" value="Ai（Gai）"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="667.8737" y="-318.89612"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="1474" label="Julu Geng">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Julu"/>
+          <attvalue for="surname" value="Geng"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="638.4316" y="-412.88"/>
+        <viz:color r="4" g="0" b="244"/>
+      </node>
+      <node id="1836" label="Changle Pan">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Changle"/>
+          <attvalue for="surname" value="Pan"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="489.57462" y="349.1495"/>
+        <viz:color r="141" g="203" b="255"/>
+      </node>
+      <node id="2697" label="Hejian Xing">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hejian"/>
+          <attvalue for="surname" value="Xing"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-136.30635" y="222.78313"/>
+        <viz:color r="0" g="11" b="244"/>
+      </node>
+      <node id="2703" label="Bohai Gao">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Bohai"/>
+          <attvalue for="surname" value="Gao"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-153.35368" y="80.55415"/>
+        <viz:color r="44" g="19" b="255"/>
+      </node>
+      <node id="2874" label="Dunqiu Li">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Dunqiu"/>
+          <attvalue for="surname" value="Li"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="394.23056" y="169.03621"/>
+        <viz:color r="255" g="124" b="69"/>
+      </node>
+      <node id="2989" label="Qinghe Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-223.19844" y="893.9732"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="3074" label="Fanyang Lu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Fanyang"/>
+          <attvalue for="surname" value="Lu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="415.89963" y="264.47934"/>
+        <viz:color r="0" g="8" b="255"/>
+      </node>
+      <node id="3075" label="Longxi Li">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Longxi"/>
+          <attvalue for="surname" value="Li"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="490.92615" y="411.09354"/>
+        <viz:color r="255" g="176" b="3"/>
+      </node>
+      <node id="3076" label="Qinghe Zhang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Zhang"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="590.89777" y="354.66623"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="3378" label="Shuozhou Dugu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Shuozhou"/>
+          <attvalue for="surname" value="Dugu"/>
+          <attvalue for="total" value="9"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="170.9249" y="-1035.1846"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="3382" label="Xiongnu tribe Helan">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Xiongnu tribe"/>
+          <attvalue for="surname" value="Helan"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="208.2701" y="-963.86993"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="3392" label="Longxi Li">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Longxi"/>
+          <attvalue for="surname" value="Li"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="170.91338" y="-1706.8809"/>
+        <viz:color r="255" g="176" b="3"/>
+      </node>
+      <node id="3514" label="Longxi Li">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Longxi"/>
+          <attvalue for="surname" value="Li"/>
+          <attvalue for="total" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1883.495" y="1341.6807"/>
+        <viz:color r="255" g="176" b="3"/>
+      </node>
+      <node id="3656" label="Boling Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Boling"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-120.088844" y="401.78003"/>
+        <viz:color r="0" g="24" b="255"/>
+      </node>
+      <node id="3663" label="Fanyang Lu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Fanyang"/>
+          <attvalue for="surname" value="Lu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-248.70436" y="19.652077"/>
+        <viz:color r="0" g="8" b="255"/>
+      </node>
+      <node id="3798" label="Qinghe Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="9"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="142.68002" y="245.29178"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="3806" label="Taiyuan Guo">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Taiyuan"/>
+          <attvalue for="surname" value="Guo"/>
+          <attvalue for="total" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1107.646" y="955.3394"/>
+        <viz:color r="44" g="215" b="0"/>
+      </node>
+      <node id="3864" label="Nan Lanling Xiao">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Nan Lanling"/>
+          <attvalue for="surname" value="Xiao"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="394.23007" y="480.2341"/>
+        <viz:color r="181" g="0" b="124"/>
+      </node>
+      <node id="4532" label="Jingzhao Wei">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Jingzhao"/>
+          <attvalue for="surname" value="Wei"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="922.66986" y="391.78348"/>
+        <viz:color r="236" g="203" b="0"/>
+      </node>
+      <node id="4549" label="Beihai Wang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Beihai"/>
+          <attvalue for="surname" value="Wang"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1029.7971" y="396.10886"/>
+        <viz:color r="146" g="116" b="0"/>
+      </node>
+      <node id="5738" label="Pingyuan Du">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Pingyuan"/>
+          <attvalue for="surname" value="Du"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-153.31897" y="897.8981"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="5914" label="Qinghe Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1093.7482" y="399.6748"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="7022" label="Luoyang Yuan">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Yuan"/>
+          <attvalue for="total" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1952.9379" y="1568.6447"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="7030" label="Dai Houmochen">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Dai"/>
+          <attvalue for="surname" value="Houmochen"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1911.0193" y="1632.0437"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="7033" label="Dai Wuchuan Kuhan（Wang）">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Dai Wuchuan"/>
+          <attvalue for="surname" value="Kuhan（Wang）"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2008.5637" y="1622.6257"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="7053" label="Luoyang Yuan">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Yuan"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="649.11847" y="1200.0116"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="7863" label="Guangmu Husi">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Guangmu"/>
+          <attvalue for="surname" value="Husi"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-94.90149" y="-1342.1384"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="8625" label="Taiyuan Wang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Taiyuan"/>
+          <attvalue for="surname" value="Wang"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-254.57132" y="157.14915"/>
+        <viz:color r="44" g="215" b="0"/>
+      </node>
+      <node id="8632" label="Bohai Gao">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Bohai"/>
+          <attvalue for="surname" value="Gao"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-432.35767" y="409.12668"/>
+        <viz:color r="44" g="19" b="255"/>
+      </node>
+      <node id="8748" label="Fufeng Jiankang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Fufeng"/>
+          <attvalue for="surname" value="Jiankang"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-3.6591024" y="-1141.0664"/>
+        <viz:color r="0" g="23" b="244"/>
+      </node>
+      <node id="9084" label="Dai Wuchuan Liu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Dai Wuchuan"/>
+          <attvalue for="surname" value="Liu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1915.7095" y="1278.627"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="9241" label="Hejian Xing">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hejian"/>
+          <attvalue for="surname" value="Xing"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="136.07362" y="-379.5196"/>
+        <viz:color r="0" g="11" b="244"/>
+      </node>
+      <node id="9245" label="Xingyang Zheng">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Xingyang"/>
+          <attvalue for="surname" value="Zheng"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="262.7952" y="-282.2836"/>
+        <viz:color r="0" g="194" b="188"/>
+      </node>
+      <node id="9246" label="Fanyang Lu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Fanyang"/>
+          <attvalue for="surname" value="Lu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="121.099106" y="-159.237"/>
+        <viz:color r="0" g="8" b="255"/>
+      </node>
+      <node id="71" label="Boling Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Boling"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="414.60416" y="1557.2864"/>
+        <viz:color r="0" g="24" b="255"/>
+      </node>
+      <node id="2125" label="Anding Hu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Anding"/>
+          <attvalue for="surname" value="Hu"/>
+          <attvalue for="total" value="7"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-537.7704" y="2536.6936"/>
+        <viz:color r="255" g="180" b="27"/>
+      </node>
+      <node id="568" label="Hedong Xue">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hedong"/>
+          <attvalue for="surname" value="Xue"/>
+          <attvalue for="total" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-977.3398" y="-1358.0598"/>
+        <viz:color r="96" g="170" b="0"/>
+      </node>
+      <node id="8588" label="Guangping Song">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Guangping"/>
+          <attvalue for="surname" value="Song"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="664.624" y="-1801.0199"/>
+        <viz:color r="8" g="8" b="255"/>
+      </node>
+      <node id="75" label="Zhaojun Li">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Zhaojun"/>
+          <attvalue for="surname" value="Li"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="464.4416" y="1622.7429"/>
+        <viz:color r="13" g="5" b="255"/>
+      </node>
+      <node id="5396" label="Anding Huangfu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Anding"/>
+          <attvalue for="surname" value="Huangfu"/>
+          <attvalue for="total" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-553.0054" y="2706.7695"/>
+        <viz:color r="255" g="180" b="27"/>
+      </node>
+      <node id="5388" label="Qinghe Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-463.30948" y="2539.2878"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="883" label="Luoyang Lu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Lu"/>
+          <attvalue for="total" value="9"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="231.14081" y="1936.8535"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="5380" label="Anding Huangfu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Anding"/>
+          <attvalue for="surname" value="Huangfu"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-616.6717" y="2558.6704"/>
+        <viz:color r="255" g="180" b="27"/>
+      </node>
+      <node id="9204" label="Luoyang He">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Henan"/>
+          <attvalue for="surname" value="He"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="240.20453" y="2067.3533"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="2072" label="Luoyang Zhangsun">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Zhangsun"/>
+          <attvalue for="total" value="12"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2770.8857" y="477.55328"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="5401" label="Hedong Pei">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hedong"/>
+          <attvalue for="surname" value="Pei"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-560.06616" y="2772.358"/>
+        <viz:color r="96" g="170" b="0"/>
+      </node>
+      <node id="8" label="Bohai Feng">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Bohai"/>
+          <attvalue for="surname" value="Feng"/>
+          <attvalue for="total" value="21"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1488.1865" y="855.6593"/>
+        <viz:color r="44" g="19" b="255"/>
+      </node>
+      <node id="23" label="Qinghe Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="11"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-878.96484" y="1369.2202"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="24" label="Qinghe Chang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Chang"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-898.0263" y="1483.7"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="270" label="Xiurong Erzhu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Xiurong"/>
+          <attvalue for="surname" value="Erzhu"/>
+          <attvalue for="total" value="7"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2206.8132" y="2578.5073"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="715" label="Luoyang Yu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Yu"/>
+          <attvalue for="total" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2466.2354" y="3089.254"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="849" label="Shanwu Wei">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Shanwu"/>
+          <attvalue for="surname" value="Wei"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2422.125" y="2336.351"/>
+        <viz:color r="149" g="189" b="255"/>
+      </node>
+      <node id="1168" label="Luoyang Mu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Mu"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2252.834" y="2667.6309"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="1238" label="Taiyuan Wang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Taiyuan"/>
+          <attvalue for="surname" value="Wang"/>
+          <attvalue for="total" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-878.5971" y="1176.7931"/>
+        <viz:color r="44" g="215" b="0"/>
+      </node>
+      <node id="1377" label="Luoyang Luo">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Luo"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="127.246994" y="2005.5292"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="1399" label="Dunqiu Li">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Dunqiu"/>
+          <attvalue for="surname" value="Li"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-3119.0977" y="-930.33496"/>
+        <viz:color r="255" g="124" b="69"/>
+      </node>
+      <node id="1666" label="Liaodong Gao">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Liaodong"/>
+          <attvalue for="surname" value="Gao"/>
+          <attvalue for="total" value="7"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2747.0818" y="-516.13574"/>
+        <viz:color r="143" g="222" b="255"/>
+      </node>
+      <node id="1718" label="Luoyang Wei">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Wei"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2280.873" y="2723.8806"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="1792" label="Zhongshan Lang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Zhongshan"/>
+          <attvalue for="surname" value="Lang"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1677.615" y="787.3033"/>
+        <viz:color r="61" g="48" b="255"/>
+      </node>
+      <node id="725" label="Henei Wen Sima">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Henei Wen"/>
+          <attvalue for="surname" value="Sima"/>
+          <attvalue for="total" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-3227.8694" y="-1134.6693"/>
+        <viz:color r="194" g="0" b="194"/>
+      </node>
+      <node id="2248" label="Hedong Pei">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hedong"/>
+          <attvalue for="surname" value="Pei"/>
+          <attvalue for="total" value="12"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1582.0016" y="-1202.8231"/>
+        <viz:color r="96" g="170" b="0"/>
+      </node>
+      <node id="2288" label="Changle Feng">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Changle"/>
+          <attvalue for="surname" value="Feng"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2121.1472" y="2593.7078"/>
+        <viz:color r="141" g="203" b="255"/>
+      </node>
+      <node id="2304" label="Chenliu Cheng">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Chenliu"/>
+          <attvalue for="surname" value="Cheng"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2400.025" y="3141.89"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="2307" label="Chengyang Meng">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Chengyang"/>
+          <attvalue for="surname" value="Meng"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2511.497" y="3174.7021"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="2414" label="Hedong Liu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hedong"/>
+          <attvalue for="surname" value="Liu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="334.34955" y="2012.4669"/>
+        <viz:color r="96" g="170" b="0"/>
+      </node>
+      <node id="2482" label="Luoyang He">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="He"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2546.4836" y="3066.8533"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="2769" label="Dongping Bi">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Dongping"/>
+          <attvalue for="surname" value="Bi"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2022.9136" y="827.915"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="2777" label="Henei Sima">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Henei"/>
+          <attvalue for="surname" value="Sima"/>
+          <attvalue for="total" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="624.1265" y="1786.0629"/>
+        <viz:color r="205" g="0" b="252"/>
+      </node>
+      <node id="2858" label="Boling Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Boling"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1517.8633" y="1064.8857"/>
+        <viz:color r="0" g="24" b="255"/>
+      </node>
+      <node id="3005" label="Qinghe Dou">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Dou"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2028.6421" y="1160.8253"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="3008" label="Da'an Lou">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Da'an"/>
+          <attvalue for="surname" value="Lou"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1962.9672" y="1127.5001"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="3063" label="Hengzhou Chilie">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hengzhou"/>
+          <attvalue for="surname" value="Chilie"/>
+          <attvalue for="total" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2307.6023" y="2330.5452"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="3078" label="Shuozhou Hulü">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Shuozhou"/>
+          <attvalue for="surname" value="Hulü"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2177.0835" y="2014.2136"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="4513" label="Julu Wei">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Julu"/>
+          <attvalue for="surname" value="Wei"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2973.0493" y="666.54913"/>
+        <viz:color r="4" g="0" b="244"/>
+      </node>
+      <node id="5086" label="Luoyang Mu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Mu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="210.35266" y="1991.767"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="5614" label="Fanyang Lu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Fanyang"/>
+          <attvalue for="surname" value="Lu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2093.2349" y="825.11957"/>
+        <viz:color r="0" g="8" b="255"/>
+      </node>
+      <node id="7437" label="Dunqiu Li">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Dunqiu"/>
+          <attvalue for="surname" value="Li"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="577.20215" y="1732.9119"/>
+        <viz:color r="255" g="124" b="69"/>
+      </node>
+      <node id="8502" label="Dai He">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Dai"/>
+          <attvalue for="surname" value="He"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2489.9094" y="2337.5815"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="8696" label="Luoyang Fang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Fang"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1009.319" y="1705.0593"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="8698" label="Fanyang Lu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Fanyang"/>
+          <attvalue for="surname" value="Lu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1039.4596" y="1762.8224"/>
+        <viz:color r="0" g="8" b="255"/>
+      </node>
+      <node id="3261" label="Hedong Liu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hedong"/>
+          <attvalue for="surname" value="Liu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1718.2706" y="-1303.9512"/>
+        <viz:color r="96" g="170" b="0"/>
+      </node>
+      <node id="9056" label="Fanyang Lu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Fanyang"/>
+          <attvalue for="surname" value="Lu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1694.3304" y="893.53864"/>
+        <viz:color r="0" g="8" b="255"/>
+      </node>
+      <node id="9057" label="Longxi Li">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Longxi"/>
+          <attvalue for="surname" value="Li"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1727.314" y="659.58093"/>
+        <viz:color r="255" g="176" b="3"/>
+      </node>
+      <node id="9060" label="Fanyang Lu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Fanyang"/>
+          <attvalue for="surname" value="Lu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1329.3944" y="932.9031"/>
+        <viz:color r="0" g="8" b="255"/>
+      </node>
+      <node id="9062" label="Qinghe Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1595.602" y="699.05945"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="9120" label="Boling Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Boling"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1600.6808" y="921.72076"/>
+        <viz:color r="0" g="24" b="255"/>
+      </node>
+      <node id="9125" label="Longxi Li">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Longxi"/>
+          <attvalue for="surname" value="Li"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1357.259" y="722.3926"/>
+        <viz:color r="255" g="176" b="3"/>
+      </node>
+      <node id="9127" label="Fanyang Zu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Fanyang"/>
+          <attvalue for="surname" value="Zu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1554.2914" y="977.13824"/>
+        <viz:color r="0" g="8" b="255"/>
+      </node>
+      <node id="9129" label="Boling Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Boling"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1494.7748" y="640.8872"/>
+        <viz:color r="0" g="24" b="255"/>
+      </node>
+      <node id="722" label="Qinghe Meng">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Meng"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-3303.08" y="-1132.0543"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="9215" label="Liaodong Li">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Liaodong"/>
+          <attvalue for="surname" value="Li"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2652.0652" y="-450.3202"/>
+        <viz:color r="143" g="222" b="255"/>
+      </node>
+      <node id="9217" label="Changli Sun">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Changli"/>
+          <attvalue for="surname" value="Sun"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2862.3374" y="-472.2476"/>
+        <viz:color r="165" g="224" b="255"/>
+      </node>
+      <node id="9219" label="Qinghe Li">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Li"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2650.9788" y="-580.7414"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="9227" label="Qingyuan Lu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qingyuan"/>
+          <attvalue for="surname" value="Lu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2772.8215" y="-395.7063"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="9235" label="Bohai 囗">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Bohai"/>
+          <attvalue for="surname" value="囗"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2804.818" y="-601.3365"/>
+        <viz:color r="44" g="19" b="255"/>
+      </node>
+      <node id="571" label="Hedong Pei">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hedong"/>
+          <attvalue for="surname" value="Pei"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1050.3395" y="-1388.2366"/>
+        <viz:color r="96" g="170" b="0"/>
+      </node>
+      <node id="573" label="Luoyang Tuobo">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Tuobo"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-929.1845" y="-1419.3867"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="633" label="Gaoyang Xu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Gaoyang"/>
+          <attvalue for="surname" value="Xu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="662.7831" y="-1699.3403"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="1382" label="Luoyang Hou">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Hou"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="780.68005" y="-1660.6622"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="1385" label="Qinghe Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="830.11633" y="-1771.7158"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="1903" label="Tianshui Lü">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Tianshui"/>
+          <attvalue for="surname" value="Lü"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="972.68115" y="-1479.0454"/>
+        <viz:color r="252" g="95" b="0"/>
+      </node>
+      <node id="2905" label="Hedong Liu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hedong"/>
+          <attvalue for="surname" value="Liu"/>
+          <attvalue for="total" value="12"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1013.87225" y="-2624.301"/>
+        <viz:color r="96" g="170" b="0"/>
+      </node>
+      <node id="2916" label="Hedong Pei">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hedong"/>
+          <attvalue for="surname" value="Pei"/>
+          <attvalue for="total" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1242.605" y="-2775.7458"/>
+        <viz:color r="96" g="170" b="0"/>
+      </node>
+      <node id="3199" label="Qiaoguo Xiahou">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qiaoguo"/>
+          <attvalue for="surname" value="Xiahou"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1244.8362" y="-2855.9382"/>
+        <viz:color r="223" g="42" b="0"/>
+      </node>
+      <node id="6902" label="Jingzhao Wang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Jingzhao"/>
+          <attvalue for="surname" value="Wang"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-849.8419" y="-2679.23"/>
+        <viz:color r="236" g="203" b="0"/>
+      </node>
+      <node id="6908" label="Hedong Pei">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hedong"/>
+          <attvalue for="surname" value="Pei"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-938.3425" y="-2686.6282"/>
+        <viz:color r="96" g="170" b="0"/>
+      </node>
+      <node id="6909" label="Longxi Xin">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Longxi"/>
+          <attvalue for="surname" value="Xin"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-898.84406" y="-2537.4565"/>
+        <viz:color r="255" g="176" b="3"/>
+      </node>
+      <node id="8277" label="Luoyang Yuwen">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Yuwen"/>
+          <attvalue for="total" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-60.65133" y="-2027.9425"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="8281" label="Luoyang Daxi">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Daxi"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-47.907528" y="-1840.9363"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="8284" label="Luoyang Heruo">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Heruo"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-526.0992" y="-2405.7566"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="8308" label="Jingzhao Dou">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Jingzhao"/>
+          <attvalue for="surname" value="Dou"/>
+          <attvalue for="total" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="192.63858" y="-1879.4148"/>
+        <viz:color r="236" g="203" b="0"/>
+      </node>
+      <node id="8589" label="Anding Huangfu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Anding"/>
+          <attvalue for="surname" value="Huangfu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="663.8388" y="-1326.5115"/>
+        <viz:color r="255" g="180" b="27"/>
+      </node>
+      <node id="8832" label="Luoyang Shan">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Shan"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="873.01935" y="-1579.9976"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="8824" label="Luoyang Luo">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Luo"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="829.9063" y="-1502.8662"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="8837" label="Jingzhao Wei">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Jingzhao"/>
+          <attvalue for="surname" value="Wei"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="756.46594" y="-1367.3397"/>
+        <viz:color r="236" g="203" b="0"/>
+      </node>
+      <node id="9273" label="Luoyang Tuobo">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Tuobo"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1026.846" y="-2745.9663"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="9279" label="Anding Xi">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Anding"/>
+          <attvalue for="surname" value="Xi"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1055.5879" y="-2502.6116"/>
+        <viz:color r="255" g="180" b="27"/>
+      </node>
+      <node id="650" label="Shanggu Hou">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Shanggu"/>
+          <attvalue for="surname" value="Hou"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2636.9377" y="509.48898"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="905" label="Taishan Yang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Taishan"/>
+          <attvalue for="surname" value="Yang"/>
+          <attvalue for="total" value="18"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3581.7463" y="-115.55477"/>
+        <viz:color r="178" g="120" b="0"/>
+      </node>
+      <node id="1324" label="Luoyang Wang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Wang"/>
+          <attvalue for="total" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4258.3384" y="2352.997"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="1533" label="Qinghe Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3695.865" y="-33.620384"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="1536" label="Qinghe Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3541.912" y="-242.70625"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="1538" label="Qinghe Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3656.5266" y="126.76065"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="1540" label="Weijun Shen">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Weijun"/>
+          <attvalue for="surname" value="Shen"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3736.7515" y="-311.07736"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="1543" label="Qinghe Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3606.5337" y="17.945402"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="1545" label="Anding Huangfu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Anding"/>
+          <attvalue for="surname" value="Huangfu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3698.8499" y="-183.47041"/>
+        <viz:color r="255" g="180" b="27"/>
+      </node>
+      <node id="1549" label="Anding Huangfu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Anding"/>
+          <attvalue for="surname" value="Huangfu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3434.1611" y="125.35986"/>
+        <viz:color r="255" g="180" b="27"/>
+      </node>
+      <node id="1554" label="Tianshui Zhao">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Tianshui"/>
+          <attvalue for="surname" value="Zhao"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3820.8784" y="-173.1009"/>
+        <viz:color r="252" g="95" b="0"/>
+      </node>
+      <node id="1557" label="Xingyang Zheng">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Xingyang"/>
+          <attvalue for="surname" value="Zheng"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3539.5684" y="10.777361"/>
+        <viz:color r="0" g="194" b="188"/>
+      </node>
+      <node id="1155" label="Changli Han">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Changli"/>
+          <attvalue for="surname" value="Han"/>
+          <attvalue for="total" value="6"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4195.4014" y="2445.5398"/>
+        <viz:color r="165" g="224" b="255"/>
+      </node>
+      <node id="2077" label="Yanguo Duan">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Yanguo"/>
+          <attvalue for="surname" value="Duan"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2692.1272" y="373.32306"/>
+        <viz:color r="157" g="246" b="255"/>
+      </node>
+      <node id="2079" label="Hejian Liu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hejian"/>
+          <attvalue for="surname" value="Liu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2743.2854" y="612.6322"/>
+        <viz:color r="0" g="11" b="244"/>
+      </node>
+      <node id="2081" label="Hejian Liu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hejian"/>
+          <attvalue for="surname" value="Liu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2883.3228" y="525.3403"/>
+        <viz:color r="0" g="11" b="244"/>
+      </node>
+      <node id="2662" label="Liaodong Gongsun">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Liaodong"/>
+          <attvalue for="surname" value="Gongsun"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3598.024" y="1570.936"/>
+        <viz:color r="143" g="222" b="255"/>
+      </node>
+      <node id="2667" label="Luoyang Zhangsun">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Zhangsun"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3939.2769" y="1982.5275"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="2825" label="Pengcheng Liu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Pengcheng"/>
+          <attvalue for="surname" value="Liu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3473.9048" y="-59.014694"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="2826" label="Dunqiu Li">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Dunqiu"/>
+          <attvalue for="surname" value="Li"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3465.089" y="-169.76215"/>
+        <viz:color r="255" g="124" b="69"/>
+      </node>
+      <node id="2827" label="Julu Wei">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Julu"/>
+          <attvalue for="surname" value="Wei"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3542.732" y="-373.53067"/>
+        <viz:color r="4" g="0" b="244"/>
+      </node>
+      <node id="7831" label="Qinghe Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3360.4707" y="-61.67971"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="9167" label="Boling Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Boling"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3413.8057" y="-267.46506"/>
+        <viz:color r="0" g="24" b="255"/>
+      </node>
+      <node id="9168" label="Zhaojun Li">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Zhaojun"/>
+          <attvalue for="surname" value="Li"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3360.4377" y="-171.67874"/>
+        <viz:color r="13" g="5" b="255"/>
+      </node>
+      <node id="9169" label="Dunhuang Li">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Dunhuang"/>
+          <attvalue for="surname" value="Li"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3611.1763" y="-321.2883"/>
+        <viz:color r="255" g="221" b="11"/>
+      </node>
+      <node id="9170" label="Beihai Wang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Beihai"/>
+          <attvalue for="surname" value="Wang"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3796.2231" y="-61.67983"/>
+        <viz:color r="146" g="116" b="0"/>
+      </node>
+      <node id="1157" label="Changli Sun">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Changli"/>
+          <attvalue for="surname" value="Sun"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4094.3943" y="2497.3943"/>
+        <viz:color r="165" g="224" b="255"/>
+      </node>
+      <node id="5240" label="Lelang Wang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Lelang"/>
+          <attvalue for="surname" value="Wang"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4202.54" y="2519.8364"/>
+        <viz:color r="167" g="240" b="255"/>
+      </node>
+      <node id="8303" label="Luoyang Hebo">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Hebo"/>
+          <attvalue for="total" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4581.696" y="2548.602"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="662" label="Luoyang Helan">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Helan"/>
+          <attvalue for="total" value="9"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4741.413" y="2693.257"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="667" label="Hongnong Liu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hongnong"/>
+          <attvalue for="surname" value="Liu"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4672.4326" y="2633.8774"/>
+        <viz:color r="223" g="192" b="0"/>
+      </node>
+      <node id="683" label="Hengzhou Daxi">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hengzhou"/>
+          <attvalue for="surname" value="Daxi"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4790.7725" y="2735.1738"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="3609" label="Luoyang Yuchi">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Yuchi"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4632.1055" y="2506.8438"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="1240" label="Taiyuan Wang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Taiyuan"/>
+          <attvalue for="surname" value="Wang"/>
+          <attvalue for="total" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-3600.627" y="762.5957"/>
+        <viz:color r="44" g="215" b="0"/>
+      </node>
+      <node id="1354" label="Longxi Xin">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Longxi"/>
+          <attvalue for="surname" value="Xin"/>
+          <attvalue for="total" value="5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-4082.84" y="831.4601"/>
+        <viz:color r="255" g="176" b="3"/>
+      </node>
+      <node id="1410" label="Dong Qinghe Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Dong Qinghe"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="8"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1770.2085" y="-3651.79"/>
+        <viz:color r="141" g="114" b="0"/>
+      </node>
+      <node id="1415" label="Qinghe Fang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Fang"/>
+          <attvalue for="total" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1837.3853" y="-3748.215"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="1426" label="Qinghe Fu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qinghe"/>
+          <attvalue for="surname" value="Fu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1669.1539" y="-3623.5803"/>
+        <viz:color r="0" g="16" b="250"/>
+      </node>
+      <node id="1519" label="Wuwei Jia">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Wuwei"/>
+          <attvalue for="surname" value="Jia"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1756.6399" y="-3513.051"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="1702" label="Fengyi Guo">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Fengyi"/>
+          <attvalue for="surname" value="Guo"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-4010.1365" y="879.54517"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="1704" label="Jiuquan Ma">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Jiuquan"/>
+          <attvalue for="surname" value="Ma"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-4136.6626" y="919.27423"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="1706" label="Wugong Su">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Wugong"/>
+          <attvalue for="surname" value="Su"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-4197.041" y="822.7883"/>
+        <viz:color r="255" g="215" b="24"/>
+      </node>
+      <node id="1717" label="Hedong Liu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hedong"/>
+          <attvalue for="surname" value="Liu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-4112.347" y="738.40216"/>
+        <viz:color r="96" g="170" b="0"/>
+      </node>
+      <node id="1840" label="Anding Hu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Anding"/>
+          <attvalue for="surname" value="Hu"/>
+          <attvalue for="total" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-3169.1174" y="-1284.0327"/>
+        <viz:color r="255" g="180" b="27"/>
+      </node>
+      <node id="1841" label="Longxi Xin">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Longxi"/>
+          <attvalue for="surname" value="Xin"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-3227.0188" y="-1333.2214"/>
+        <viz:color r="255" g="176" b="3"/>
+      </node>
+      <node id="2107" label="Liaodong Li">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Liaodong"/>
+          <attvalue for="surname" value="Li"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1888.5016" y="-3818.1304"/>
+        <viz:color r="143" g="222" b="255"/>
+      </node>
+      <node id="2154" label="Qijun Zhang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qijun"/>
+          <attvalue for="surname" value="Zhang"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1822.9216" y="-3586.5376"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="2162" label="Hedong Pei">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hedong"/>
+          <attvalue for="surname" value="Pei"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1864.3861" y="-3668.0037"/>
+        <viz:color r="96" g="170" b="0"/>
+      </node>
+      <node id="2694" label="Pingyuan Liu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Pingyuan"/>
+          <attvalue for="surname" value="Liu"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1709.4985" y="-3757.222"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="2919" label="Hedong Liu">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Hedong"/>
+          <attvalue for="surname" value="Liu"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1705.6788" y="-2824.877"/>
+        <viz:color r="96" g="170" b="0"/>
+      </node>
+      <node id="2922" label="Qiaoguo Xiahou">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Qiaoguo"/>
+          <attvalue for="surname" value="Xiahou"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2006.2782" y="-2662.7139"/>
+        <viz:color r="223" g="42" b="0"/>
+      </node>
+      <node id="3246" label="Xingyang Zheng">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Xingyang"/>
+          <attvalue for="surname" value="Zheng"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1602.6813" y="-1323.4768"/>
+        <viz:color r="0" g="194" b="188"/>
+      </node>
+      <node id="1315" label="Tianshui Zhao">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Tianshui"/>
+          <attvalue for="surname" value="Zhao"/>
+          <attvalue for="total" value="9"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1390.4841" y="-2701.516"/>
+        <viz:color r="252" g="95" b="0"/>
+      </node>
+      <node id="3265" label="Tianshui Jiang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Tianshui"/>
+          <attvalue for="surname" value="Jiang"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1725.0568" y="-1213.8757"/>
+        <viz:color r="252" g="95" b="0"/>
+      </node>
+      <node id="3266" label="Longxi Li">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Longxi"/>
+          <attvalue for="surname" value="Li"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1597.6067" y="-1040.1698"/>
+        <viz:color r="255" g="176" b="3"/>
+      </node>
+      <node id="3267" label="Xingyang Zheng">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Xingyang"/>
+          <attvalue for="surname" value="Zheng"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1699.451" y="-1118.6661"/>
+        <viz:color r="0" g="194" b="188"/>
+      </node>
+      <node id="3268" label="Jingzhao Du">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Jingzhao"/>
+          <attvalue for="surname" value="Du"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1439.5723" y="-1179.3713"/>
+        <viz:color r="236" g="203" b="0"/>
+      </node>
+      <node id="5481" label="Julu Wei">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Julu"/>
+          <attvalue for="surname" value="Wei"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-1538.9524" y="-1389.4587"/>
+        <viz:color r="4" g="0" b="244"/>
+      </node>
+      <node id="6845" label="Longxi Xin">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Longxi"/>
+          <attvalue for="surname" value="Xin"/>
+          <attvalue for="total" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2900.6838" y="-1380.1703"/>
+        <viz:color r="255" g="176" b="3"/>
+      </node>
+      <node id="6848" label="Jingzhao Wei">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Jingzhao"/>
+          <attvalue for="surname" value="Wei"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-2931.4292" y="-1444.1156"/>
+        <viz:color r="236" g="203" b="0"/>
+      </node>
+      <node id="3316" label="Zhaojun Li">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Zhaojun"/>
+          <attvalue for="surname" value="Li"/>
+          <attvalue for="total" value="10"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4516.9844" y="-2380.0962"/>
+        <viz:color r="13" g="5" b="255"/>
+      </node>
+      <node id="3335" label="Julu Wei">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Julu"/>
+          <attvalue for="surname" value="Wei"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4548.404" y="-2460.5994"/>
+        <viz:color r="4" g="0" b="244"/>
+      </node>
+      <node id="3337" label="Boling Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Boling"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4669.922" y="-2373.1626"/>
+        <viz:color r="0" g="24" b="255"/>
+      </node>
+      <node id="3339" label="Taiyuan Wang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Taiyuan"/>
+          <attvalue for="surname" value="Wang"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4460.301" y="-2486.618"/>
+        <viz:color r="44" g="215" b="0"/>
+      </node>
+      <node id="3340" label="Boling Cui">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Boling"/>
+          <attvalue for="surname" value="Cui"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4609.75" y="-2406.377"/>
+        <viz:color r="0" g="24" b="255"/>
+      </node>
+      <node id="3341" label="Guangping Duan">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Guangping"/>
+          <attvalue for="surname" value="Duan"/>
+          <attvalue for="total" value="3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4248.9194" y="-2015.4626"/>
+        <viz:color r="8" g="8" b="255"/>
+      </node>
+      <node id="3343" label="Julu Wei">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Julu"/>
+          <attvalue for="surname" value="Wei"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4601.9077" y="-2527.6736"/>
+        <viz:color r="4" g="0" b="244"/>
+      </node>
+      <node id="3344" label="Xingyang Zheng">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Xingyang"/>
+          <attvalue for="surname" value="Zheng"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4546.222" y="-2228.636"/>
+        <viz:color r="0" g="194" b="188"/>
+      </node>
+      <node id="3345" label="Bohai Gao">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Bohai"/>
+          <attvalue for="surname" value="Gao"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4559.4277" y="-2315.2173"/>
+        <viz:color r="44" g="19" b="255"/>
+      </node>
+      <node id="3360" label="Luoyang Yuan">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Luoyang"/>
+          <attvalue for="surname" value="Yuan"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4195.8525" y="-2050.8315"/>
+        <viz:color r="223" g="137" b="255"/>
+      </node>
+      <node id="8742" label="Taiyuan Tang">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Taiyuan"/>
+          <attvalue for="surname" value="Tang"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4051.9485" y="-1713.5804"/>
+        <viz:color r="44" g="215" b="0"/>
+      </node>
+      <node id="8809" label="Shanwu Kudi">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Shanwu"/>
+          <attvalue for="surname" value="Kudi"/>
+          <attvalue for="total" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="3742.8652" y="-1227.9298"/>
+        <viz:color r="149" g="189" b="255"/>
+      </node>
+      <node id="9042" label="Julu Wei">
+        <attvalues>
+          <attvalue for="regionoforigin" value="Julu"/>
+          <attvalue for="surname" value="Wei"/>
+          <attvalue for="total" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="4380.001" y="-2408.5977"/>
+        <viz:color r="4" g="0" b="244"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1" target="6" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="1" source="1" target="8" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="2" source="1" target="10" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="3" source="1" target="85" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="4" source="1" target="3" label="十六國">
+        <attvalues>
+          <attvalue for="dynasty" value="十六國"/>
+          <attvalue for="period" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="18" source="6" target="1" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="5" source="6" target="3656" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="8" source="6" target="3798" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="10" source="6" target="2697" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="11" source="6" target="2248" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="12" source="6" target="207" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="13" source="6" target="130" label="北魏" weight="2.0">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="14" source="6" target="85" label="北魏" weight="2.0">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="15" source="6" target="55" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="16" source="6" target="51" label="北魏" weight="2.0">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="17" source="6" target="23" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="19" source="6" target="2989" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="20" source="6" target="130" label="北齊" weight="4.0">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="22" source="6" target="3663" label="東魏">
+        <attvalues>
+          <attvalue for="dynasty" value="東魏"/>
+          <attvalue for="period" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="40" source="51" target="6" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="51" source="55" target="6" label="北魏" weight="2.0">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="53" source="71" target="6" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="56" source="85" target="6" label="北魏" weight="2.0">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="73" source="130" target="6" label="北魏" weight="3.0">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="75" source="132" target="6" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="79" source="207" target="6" label="北魏" weight="2.0">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="82" source="224" target="6" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="83" source="225" target="6" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="167" source="791" target="6" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="267" source="1666" target="6" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="358" source="2703" target="6" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="461" source="4513" target="6" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="575" source="8625" target="6" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="576" source="8625" target="6" label="隋">
+        <attvalues>
+          <attvalue for="dynasty" value="隋"/>
+          <attvalue for="period" value="7"/>
+        </attvalues>
+      </edge>
+      <edge id="577" source="8632" target="6" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="41" source="51" target="3798" label="北魏" weight="2.0">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="43" source="51" target="55" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="45" source="51" target="1238" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="48" source="51" target="2989" label="隋">
+        <attvalues>
+          <attvalue for="dynasty" value="隋"/>
+          <attvalue for="period" value="7"/>
+        </attvalues>
+      </edge>
+      <edge id="69" source="130" target="51" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="70" source="130" target="51" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="178" source="883" target="51" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="319" source="2125" target="51" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="460" source="3798" target="51" label="十六國">
+        <attvalues>
+          <attvalue for="dynasty" value="十六國"/>
+          <attvalue for="period" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="49" source="55" target="3798" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="50" source="55" target="3864" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="52" source="55" target="1836" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="54" source="71" target="55" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="59" source="85" target="55" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="74" source="130" target="55" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="116" source="576" target="55" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="370" source="2874" target="55" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="399" source="3074" target="55" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="400" source="3075" target="55" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="401" source="3076" target="55" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="463" source="4532" target="55" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="57" source="85" target="9246" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="58" source="85" target="9245" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="60" source="85" target="9241" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="61" source="85" target="1308" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="120" source="579" target="85" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="68" source="130" target="3514" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="77" source="154" target="130" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="78" source="155" target="130" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="498" source="7053" target="130" label="東魏">
+        <attvalues>
+          <attvalue for="dynasty" value="東魏"/>
+          <attvalue for="period" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="137" source="627" target="207" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="306" source="2072" target="207" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="111" source="576" target="8748" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="112" source="576" target="8281" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="113" source="576" target="627" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="115" source="576" target="2905" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="117" source="576" target="579" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="118" source="576" target="627" label="隋">
+        <attvalues>
+          <attvalue for="dynasty" value="隋"/>
+          <attvalue for="period" value="7"/>
+        </attvalues>
+      </edge>
+      <edge id="119" source="576" target="3378" label="隋">
+        <attvalues>
+          <attvalue for="dynasty" value="隋"/>
+          <attvalue for="period" value="7"/>
+        </attvalues>
+      </edge>
+      <edge id="122" source="585" target="576" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="123" source="587" target="576" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="128" source="627" target="576" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="520" source="7863" target="576" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="125" source="609" target="3514" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="311" source="2072" target="609" label="隋">
+        <attvalues>
+          <attvalue for="dynasty" value="隋"/>
+          <attvalue for="period" value="7"/>
+        </attvalues>
+      </edge>
+      <edge id="130" source="627" target="8837" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="131" source="627" target="1385" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="132" source="627" target="8832" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="133" source="627" target="1903" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="134" source="627" target="635" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="135" source="627" target="633" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="136" source="627" target="631" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="138" source="627" target="8824" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="139" source="627" target="1382" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="555" source="8308" target="627" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="569" source="8588" target="627" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="570" source="8589" target="627" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="222" source="1308" target="1474" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="223" source="1308" target="1314" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="387" source="2989" target="5738" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="427" source="3378" target="3382" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="431" source="3378" target="3798" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="433" source="3392" target="3378" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="434" source="3392" target="8308" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="447" source="3514" target="7022" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="448" source="3514" target="9084" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="459" source="3798" target="3806" label="北魏" weight="3.0">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="462" source="4532" target="4549" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="464" source="4549" target="5914" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="496" source="7030" target="7022" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="497" source="7033" target="7022" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="55" source="71" target="75" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="179" source="883" target="71" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="517" source="7437" target="71" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="316" source="2125" target="5396" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="318" source="2125" target="5380" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="321" source="2125" target="5388" label="東魏">
+        <attvalues>
+          <attvalue for="dynasty" value="東魏"/>
+          <attvalue for="period" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="107" source="568" target="2248" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="108" source="568" target="571" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="109" source="568" target="573" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="110" source="568" target="576" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="468" source="5396" target="5401" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="177" source="883" target="9204" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="183" source="883" target="2414" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="231" source="1377" target="883" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="465" source="5086" target="883" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="304" source="2072" target="8809" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="307" source="2072" target="2079" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="308" source="2072" target="2081" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="310" source="2072" target="2077" label="十六國">
+        <attvalues>
+          <attvalue for="dynasty" value="十六國"/>
+          <attvalue for="period" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="355" source="2662" target="2072" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="23" source="8" target="1238" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="24" source="8" target="9120" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="28" source="8" target="2858" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="29" source="8" target="1792" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="30" source="8" target="2769" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="31" source="8" target="51" label="十六國">
+        <attvalues>
+          <attvalue for="dynasty" value="十六國"/>
+          <attvalue for="period" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="47" source="51" target="8" label="東魏">
+        <attvalues>
+          <attvalue for="dynasty" value="東魏"/>
+          <attvalue for="period" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="114" source="576" target="8" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="389" source="3008" target="8" label="東魏">
+        <attvalues>
+          <attvalue for="dynasty" value="東魏"/>
+          <attvalue for="period" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="402" source="3078" target="8" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="598" source="9056" target="8" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="599" source="9057" target="8" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="600" source="9060" target="8" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="601" source="9062" target="8" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="605" source="9125" target="8" label="東魏">
+        <attvalues>
+          <attvalue for="dynasty" value="東魏"/>
+          <attvalue for="period" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="606" source="9127" target="8" label="東魏">
+        <attvalues>
+          <attvalue for="dynasty" value="東魏"/>
+          <attvalue for="period" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="607" source="9129" target="8" label="東魏">
+        <attvalues>
+          <attvalue for="dynasty" value="東魏"/>
+          <attvalue for="period" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="32" source="23" target="51" label="北魏" weight="2.0">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="35" source="24" target="23" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="44" source="51" target="23" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="91" source="270" target="23" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="203" source="1238" target="23" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="329" source="2248" target="23" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="583" source="8696" target="23" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="90" source="270" target="2288" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="154" source="715" target="270" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="199" source="1168" target="270" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="397" source="3063" target="270" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="153" source="715" target="2482" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="155" source="715" target="2304" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="156" source="715" target="2307" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="174" source="849" target="8502" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="175" source="849" target="3063" label="東魏">
+        <attvalues>
+          <attvalue for="dynasty" value="東魏"/>
+          <attvalue for="period" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="200" source="1168" target="1718" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="268" source="1666" target="1399" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="266" source="1666" target="9227" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="269" source="1666" target="9217" label="十六國">
+        <attvalues>
+          <attvalue for="dynasty" value="十六國"/>
+          <attvalue for="period" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="270" source="1666" target="9219" label="十六國">
+        <attvalues>
+          <attvalue for="dynasty" value="十六國"/>
+          <attvalue for="period" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="271" source="1666" target="9215" label="十六國">
+        <attvalues>
+          <attvalue for="dynasty" value="十六國"/>
+          <attvalue for="period" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="612" source="9235" target="1666" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="161" source="725" target="1399" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="162" source="725" target="1840" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="331" source="2248" target="3246" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="332" source="2248" target="3261" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="333" source="2248" target="3265" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="334" source="2248" target="3266" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="335" source="2248" target="5481" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="410" source="3267" target="2248" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="411" source="3268" target="2248" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="484" source="6845" target="2248" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="359" source="2769" target="5614" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="518" source="7437" target="2777" label="隋">
+        <attvalues>
+          <attvalue for="dynasty" value="隋"/>
+          <attvalue for="period" value="7"/>
+        </attvalues>
+      </edge>
+      <edge id="388" source="3005" target="3008" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="398" source="3063" target="3078" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="582" source="8696" target="8698" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="160" source="725" target="722" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="372" source="2905" target="9279" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="374" source="2905" target="6902" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="375" source="2905" target="2916" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="488" source="6908" target="2905" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="489" source="6909" target="2905" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="553" source="8284" target="2905" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="616" source="9273" target="2905" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="409" source="3199" target="2916" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="550" source="8277" target="8284" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="551" source="8277" target="8308" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="552" source="8277" target="8281" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="140" source="650" target="2072" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="185" source="905" target="7831" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="186" source="905" target="1536" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="187" source="905" target="1538" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="188" source="905" target="1540" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="189" source="905" target="1543" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="190" source="905" target="1545" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="191" source="905" target="1549" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="192" source="905" target="1533" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="193" source="905" target="9168" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="194" source="905" target="9167" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="195" source="905" target="2072" label="東魏">
+        <attvalues>
+          <attvalue for="dynasty" value="東魏"/>
+          <attvalue for="period" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="251" source="1554" target="905" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="252" source="1557" target="905" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="362" source="2825" target="905" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="363" source="2826" target="905" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="364" source="2827" target="905" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="608" source="9169" target="905" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="609" source="9170" target="905" label="隋">
+        <attvalues>
+          <attvalue for="dynasty" value="隋"/>
+          <attvalue for="period" value="7"/>
+        </attvalues>
+      </edge>
+      <edge id="226" source="1324" target="8303" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="357" source="2667" target="1324" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="196" source="1155" target="1157" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="197" source="1155" target="1324" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="198" source="1155" target="5240" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="225" source="1324" target="1155" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="466" source="5240" target="1155" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="356" source="2662" target="2667" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="142" source="662" target="667" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="145" source="683" target="662" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="143" source="667" target="8303" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="457" source="3609" target="8303" label="北周">
+        <attvalues>
+          <attvalue for="dynasty" value="北周"/>
+          <attvalue for="period" value="6"/>
+        </attvalues>
+      </edge>
+      <edge id="204" source="1240" target="4513" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="227" source="1354" target="1240" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="228" source="1354" target="1702" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="229" source="1354" target="1704" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="230" source="1354" target="1706" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="273" source="1717" target="1354" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="236" source="1410" target="1415" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="237" source="1410" target="2154" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="238" source="1410" target="2694" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="240" source="1415" target="1410" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="241" source="1426" target="1410" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="247" source="1519" target="1410" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="324" source="2162" target="1410" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="313" source="2107" target="1415" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="283" source="1841" target="1840" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="485" source="6845" target="1840" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="224" source="1315" target="2905" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="235" source="1410" target="1315" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="330" source="2248" target="1315" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="373" source="2905" target="1315" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="376" source="2916" target="1315" label="西魏">
+        <attvalues>
+          <attvalue for="dynasty" value="西魏"/>
+          <attvalue for="period" value="4"/>
+        </attvalues>
+      </edge>
+      <edge id="377" source="2919" target="1315" label="北魏" weight="2.0">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="378" source="2922" target="1315" label="北魏" weight="2.0">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="483" source="6845" target="6848" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="414" source="3316" target="3335" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="415" source="3316" target="3337" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="416" source="3316" target="9042" label="東魏">
+        <attvalues>
+          <attvalue for="dynasty" value="東魏"/>
+          <attvalue for="period" value="3"/>
+        </attvalues>
+      </edge>
+      <edge id="418" source="3339" target="3316" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="419" source="3340" target="3316" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="421" source="3341" target="3316" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="422" source="3343" target="3316" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="423" source="3344" target="3316" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="424" source="3345" target="3316" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="420" source="3341" target="3360" label="北魏">
+        <attvalues>
+          <attvalue for="dynasty" value="北魏"/>
+          <attvalue for="period" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="585" source="8742" target="3341" label="北齊">
+        <attvalues>
+          <attvalue for="dynasty" value="北齊"/>
+          <attvalue for="period" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="586" source="8742" target="8809" label="隋">
+        <attvalues>
+          <attvalue for="dynasty" value="隋"/>
+          <attvalue for="period" value="7"/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
