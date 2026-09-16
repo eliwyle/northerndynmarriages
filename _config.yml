@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   name             : "Eli Wyle"
   pronouns         : "she/her" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. History - specializing in early medieval Chinese history and Digital Humanities"
   location         : "California"
   employer         : "University of California Berkeley"
   uri              : # URL

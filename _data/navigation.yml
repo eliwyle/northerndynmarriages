@@ -8,6 +8,21 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Epitaphs"
+    url: /epitaphs/
+
+  - title: "Maps"
+    url: /maps/
+
+  - title: "Tables"
+    url: /tables/
+
+  - title: "Family Trees"
+    url: /family-trees/
+
+  - title: "Networks"
+    url: /networks/
+
   - title: "Publications"
     url: /publications/
 
