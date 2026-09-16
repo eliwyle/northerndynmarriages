@@ -44,7 +44,7 @@ Thereupon, we engrave on the stele of the Underworld, such that it shall hand do
 </div>
 </div>
 
-![Rubbing of the epitaph of Rouran Princess Chidilian]({{ site.url }}{{ site.baseurl }}/images/Rurugongzhumuzhi.png)
+![Rubbing of the epitaph of Rouran Princess Chidilian](github.com/eliwyle/northerndynmarriages/images/Rurugongzhumuzhi.png)
 
  *Rubbing of the Rurugongzhumuzhi (茹茹公主墓誌), the entombed epitaph of Rouran Princess Chidilian. Xin Zhongguo chu tu mu zhi, Hebei 新中國出土墓誌.河北. Wen wu chu ban she, 2004*
 
