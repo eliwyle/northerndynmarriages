@@ -10,5 +10,6 @@ The maps on this site were created with the use of QGIS. They visualize the geog
 # Map of Jingzhao Wei family marriages 
 ## Jingzhao Wei tomb and its proximity to in-laws and Northern Dynasties capitals
 
-<script src="/files/jingzhaoweimap/jingzhaoweimap.js" type="module"></script>
-<om-map style="display:block; width:100%; height:600px;" basemap="positron"></om-map>
+<iframe src="/files/jingzhaoweimap/index.html" 
+  style="width:100%; height:700px; border:none;" 
+  title="Jingzhao Wei marriage map"></iframe>
