@@ -7,4 +7,9 @@ toc: false
 
 The maps on this site were created with the use of QGIS. They visualize the geographic distribution of elite families and marriage connections across the Northern Dynasties.
 
-*Content coming soon.*
+# Map of Jingzhao Wei family marriages 
+<!-- Jingzhao Wei map -->
+    <div id="jingzhaoweimap"></div>
+
+    <!-- 1. Link your external JavaScript file here -->
+    <script src="files/jingzhaoweimap.js"></script>
