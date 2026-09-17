@@ -20,7 +20,7 @@ The networks on this site were created with the use of Gephi. They model the mar
  <p>Interactive network of Northern Dynasties marriages. Use the mouse to zoom, pan, and hover over nodes.</p>
  
   <div id="sigma-container" style="width: 100%; height: 800px; border: 1px solid #ddd;"></div>
-
+<!-- START SIGMA IMPORTS -->
   <script type="module">
     import Graph from "https://cdn.jsdelivr.net/npm/graphology@0.25.4/+esm";
     import GEXF from "https://cdn.jsdelivr.net/npm/graphology-gexf@0.13.2/+esm";
