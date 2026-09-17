@@ -18,8 +18,27 @@ The networks on this site were created with the use of Gephi. They model the mar
 
 # Non-imperial marriage networks of Northern Dynasties elite families
  <p>Interactive network of Northern Dynasties marriages. Use the mouse to zoom, pan, and hover over nodes.</p>
-  <iframe src="https://github.com/eliwyle/northerndynmarriages/blob/master/files/network-f60c0f46-9d8.gexf"style="width: 100%;height: 800px; border: none;"allowfullscreen>
-  </iframe>
+  <div id="sigma-container" style="width: 100%; height: 800px; border: 1px solid #ddd;"></div>
+
+  <script type="module">
+    import Graph from "https://cdn.jsdelivr.net/npm/graphology@0.25.4/+esm";
+    import GEXF from "https://cdn.jsdelivr.net/npm/graphology-gexf@0.13.2/+esm";
+    import Sigma from "https://cdn.jsdelivr.net/npm/sigma@3.0.2/+esm";
+
+    const container = document.getElementById("sigma-container");
+
+    try {
+      const url = "{{ '/files/network-f60c0f46-9d8.gexf' | relative_url }}";
+      const response = await fetch(url);
+      if (!response.ok) throw new Error(`Could not load graph (${response.status})`);
+      const xml = await response.text();
+
+      const graph = GEXF.parse(Graph, xml);
+      new Sigma(graph, container);
+    } catch (err) {
+      container.innerHTML = `<p style="color:#b00;padding:1em;">Error loading graph: ${err.message}</p>`;
+    }
+  </script>
 
 
 
