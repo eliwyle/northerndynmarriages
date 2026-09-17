@@ -14,4 +14,4 @@ The maps on this site were created with the use of QGIS. They visualize the geog
   style="width:100%; height:700px; border:none;" 
   title="Jingzhao Wei marriage map"></iframe>
 
-[Open the interactive map](/files/jingzhaoweimap/index.html){: .btn .btn--primary}
+[Open the interactive map] (/files/jingzhaoweimap/index.html){: .btn .btn--primary}
