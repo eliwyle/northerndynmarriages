@@ -18,10 +18,7 @@ The networks on this site were created with the use of Gephi. They model the mar
 
 # Non-imperial marriage networks of Northern Dynasties elite families
  <p>Interactive network of Northern Dynasties marriages. Use the mouse to zoom, pan, and hover over nodes.</p>
-  <iframe
-    src="https://github.com/eliwyle/northerndynmarriages/blob/files/network-f60c0f46-9d8.gexf"
-    style="width: 100%; height: 800px; border: none;"
-    allowfullscreen>
+  <iframe src="https://github.com/eliwyle/northerndynmarriages/blob/files/network-f60c0f46-9d8.gexf"style="width: 100%;height: 800px; border: none;"allowfullscreen>
   </iframe>
 
 
