@@ -9,7 +9,5 @@ The maps on this site were created with the use of QGIS. They visualize the geog
 
 # Map of Jingzhao Wei family marriages 
 <!-- Jingzhao Wei map -->
-    <div id="jingzhaoweimap"></div>
-
-    <!-- 1. Link your external JavaScript file here -->
-    <script src="files/jingzhaoweimap.js"></script>
+    <div id="jingzhaoweimap" style ="width:100%; height:600px;"></div>
+    <script src="jingzhaoweimap.js"></script>
