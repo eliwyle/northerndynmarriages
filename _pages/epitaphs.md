@@ -5,7 +5,7 @@ author profile: false
 toc: false
 ---
 
-![epitaphimagefromZhongguojinshijicuivol7p1-18.](https://github.com/eliwyle/northerndynmarriages/images/Zhongguo%20jinshi%20jicui%20vol%207%20p1-18.jpg) 
+![epitaphimagefromZhongguojinshijicuivol7p1-18.](/images/Zhongguo%20jinshi%20jicui%20vol%207%20p1-18.jpg) 
 
 The *muzhi* (墓誌), or inscribed epitaphs, and *muzhiming* (墓誌銘), or entombed epitaphs, developed from the Han tradition of inscribing *bei* (碑), or steles, to commemorate the deceased. These forms of epitaphs developed during the Northern and Southern Dynasties period (~300–581 CE) in the aftermath of the disintegration of the territory previously held together under the Eastern Han (25–220 CE). Even prior to the death of the last emperor of the Han in 220 CE marking the official end of the dynasty, late Eastern Han was marked by growing regionalization and the rise of networks of powerful magnates.[^1]With this growth of powerful families came corresponding markers of status, including elaborate tombs and commemorative steles which then expanded into extended epitaphs. As a contemporary record of individuals, their families, their careers, and the language by which they were described in both life and death, these epitaphs offer invaluable sources of information on early medieval Chinese society[^2]and the individuals who occupied this time and place.
 
