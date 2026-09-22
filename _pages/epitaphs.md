@@ -21,7 +21,7 @@ The *muzhi* (墓誌), or inscribed epitaphs, and *muzhiming* (墓誌銘), or ent
 
 ## Example
 
-![Rubbing of the epitaph of Rouran Princess Chidilian](images/Rurugongzhumuzhi.png)
+![Rubbing of the epitaph of Rouran Princess Chidilian](https://eliwyle.github.io/northerndynmarriages/images/Rurugongzhumuzhi.png)
 
 ##### *Rubbing of the Rurugongzhumuzhi (茹茹公主墓誌), the entombed epitaph of Rouran Princess Chidilian. Xin Zhongguo chu tu mu zhi, Hebei 新中國出土墓誌.河北. Wen wu chu ban she, 2004*
  
