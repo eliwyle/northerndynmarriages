@@ -10,4 +10,5 @@ The family trees on this site were created with the use of NodeXL. They trace th
 ---
 
 # Family tree of the Hedong Pei 河東 裴 family
-![Hedong Pei family tree]({{ "/images/lin2248(hedongpei)familytree.png" | relative_url }})
+![Hedong Pei family tree]({{ "/images/lin2248(hedongpei)familytree.png" | relative_url }})\
+The Hedong Pei family extended from the Three Kingdoms (yellow) to the Eastern Jin and Southern Dynasties (red) and the Northern Dynasties (blue) to the Sui (purple).
