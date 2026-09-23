@@ -10,4 +10,4 @@ The family trees on this site were created with the use of NodeXL. They trace th
 ---
 
 # Family tree of the Hedong Pei 河東 裴 family
-！[Hedong Pei family tree]({{ "/images/lin2248(hedongpei)familytree.png" | relative_url }})
+![Hedong Pei family tree]({{ "/images/lin2248(hedongpei)familytree.png" | relative_url }})
