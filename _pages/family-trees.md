@@ -15,7 +15,7 @@ The Hedong Pei family extended from the Three Kingdoms (yellow) to the Eastern J
 ---
 
 # Family tree of the Qinghe Cui 清河 崔 family
-![Qinghe Cui family tree]({{/images/lin23familytreemarriage.png"| relative_url }})\ 
+![Qinghe Cui family tree]({{"/images/lin23familytreemarriage.png"| relative_url }})\ 
 ---
 
 # Intermarriage between the Northern Wei imperial family and the Changle Feng 長樂 馮 family
