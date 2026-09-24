@@ -10,6 +10,7 @@ toc: false
 
 ---
 <p>The networks on this site were created with the use of Gephi. They model the marriage networks of the Northern Dynasties elite, built from a database of over nine thousand individuals.</p>
+
 ---
 # Sixteen Kingdoms marital networks
 <p>Interactive network of ruling families of the Sixteen Kingdoms (304-439 CE). Marital connections include endogamous (green), diplomatic (purple), ruler-subject (blue), and conquest (red). Use the mouse to zoom, pan, and hover over nodes. </p>
