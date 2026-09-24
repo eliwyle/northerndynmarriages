@@ -17,54 +17,59 @@ The networks on this site were created with the use of Gephi. They model the mar
 ---
 # Northern and Southern Dynasties complete marital networks
 <p>Interactive network of Northern and Southern Dynasties marriages. Use the mouse to zoom, pan, and hover over nodes.</p>
-<div id="sigma-container" style="width: 100%; height: 800px; border: 1px solid #ddd;"></div>
-<!-- START SIGMA IMPORTS -->
-  <script type="module">
-    import Graph from "https://cdn.jsdelivr.net/npm/graphology@0.25.4/+esm";
-    import GEXF from "https://cdn.jsdelivr.net/npm/graphology-gexf@0.13.2/+esm";
-    import Sigma from "https://cdn.jsdelivr.net/npm/sigma@3.0.2/+esm";
+<div 
+  id="complete-network" 
+  class="sigma-container"
+  style="width: 100%; height: 800px; border: 1px solid #ddd;"></div>
 
-    const container = document.getElementById("sigma-container");
-
-    try {
-      const url = "{{ '/files/network-2835ae9d-602.gexf' | relative_url }}";
-      const response = await fetch(url);
-      if (!response.ok) throw new Error(`Could not load graph (${response.status})`);
-      const xml = await response.text();
-
-      const graph = GEXF.parse(Graph, xml);
-      new Sigma(graph, container);
-    } catch (err) {
-      container.innerHTML = `<p style="color:#b00;padding:1em;">Error loading graph: ${err.message}</p>`;
-    }
-  </script>
-  
-----
+ ----
 
 # Non-imperial marriage networks of Northern Dynasties elite families
  <p>Interactive network of Northern Dynasties marriages. Use the mouse to zoom, pan, and hover over nodes.</p>
  
-  <div id="sigma-container" style="width: 100%; height: 800px; border: 1px solid #ddd;"></div>
-<!-- START SIGMA IMPORTS -->
-  <script type="module">
-    import Graph from "https://cdn.jsdelivr.net/npm/graphology@0.25.4/+esm";
-    import GEXF from "https://cdn.jsdelivr.net/npm/graphology-gexf@0.13.2/+esm";
-    import Sigma from "https://cdn.jsdelivr.net/npm/sigma@3.0.2/+esm";
+  <div 
+    id="non-imperial-network" 
+    class="sigma-container"
+    style="width: 100%; height: 800px; border: 1px solid #ddd;"></div>
+<script type="module">
+  import Graph from "https://cdn.jsdelivr.net/npm/graphology@0.25.4/+esm";
+  import GEXF from "https://cdn.jsdelivr.net/npm/graphology-gexf@0.13.2/+esm";
+  import Sigma from "https://cdn.jsdelivr.net/npm/sigma@3.0.2/+esm";
 
-    const container = document.getElementById("sigma-container");
+  async function loadNetwork(containerId, graphPath) {
+    const container = document.getElementById(containerId);
 
     try {
-      const url = "{{ '/files/network-f60c0f46-9d8.gexf' | relative_url }}";
+      const url = "{{ '/files/' | relative_url }}" + graphPath;
       const response = await fetch(url);
-      if (!response.ok) throw new Error(`Could not load graph (${response.status})`);
-      const xml = await response.text();
 
+      if (!response.ok) {
+        throw new Error(`Could not load graph (${response.status})`);
+      }
+
+      const xml = await response.text();
       const graph = GEXF.parse(Graph, xml);
+
       new Sigma(graph, container);
-    } catch (err) {
-      container.innerHTML = `<p style="color:#b00;padding:1em;">Error loading graph: ${err.message}</p>`;
+    } catch (error) {
+      container.innerHTML = `
+        <p style="color: #b00; padding: 1em;">
+          Error loading graph: ${error.message}
+        </p>
+      `;
     }
-  </script>
+  }
+
+  loadNetwork(
+    "complete-network",
+    "network-2835ae9d-602.gexf"
+  );
+
+  loadNetwork(
+    "non-imperial-network",
+    "network-f60c0f46-9d8.gexf"
+  );
+</script>
 
 
 
