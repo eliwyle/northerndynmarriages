@@ -1,0 +1,735 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2026-09-24">
+    <creator>Gephi 0.11.3</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="category" title="category" type="string"/>
+      <attribute id="clanid" title="clanid" type="integer"/>
+      <attribute id="countoflinid" title="countoflinid" type="integer"/>
+      <attribute id="i" title="I" type="string"/>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="category" title="Category" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="49" label="Dai Tuoba 代 拓跋">
+        <attvalues>
+          <attvalue for="category" value="XB-I"/>
+          <attvalue for="clanid" value="13"/>
+          <attvalue for="countoflinid" value="597"/>
+          <attvalue for="i" value="I"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="-109.754486" y="154.87498"/>
+        <viz:color r="118" g="0" b="210"/>
+      </node>
+      <node id="110" label="Rouran Yuqiulü 茹茹 郁久閭（閭）">
+        <attvalues>
+          <attvalue for="category" value="RR"/>
+          <attvalue for="clanid" value="216"/>
+          <attvalue for="countoflinid" value="41"/>
+        </attvalues>
+        <viz:size value="1.2"/>
+        <viz:position x="-113.16544" y="64.34982"/>
+        <viz:color r="66" g="255" b="249"/>
+      </node>
+      <node id="313" label="Hexi Tufa 河西 禿髮">
+        <attvalues>
+          <attvalue for="category" value="XB-I"/>
+          <attvalue for="clanid" value="115"/>
+          <attvalue for="countoflinid" value="32"/>
+        </attvalues>
+        <viz:size value="1.2"/>
+        <viz:position x="77.046165" y="777.21075"/>
+        <viz:color r="118" g="0" b="210"/>
+      </node>
+      <node id="701" label="Xinxing Helian (Liu) 新興 劉/赫連">
+        <attvalues>
+          <attvalue for="category" value="XN-I"/>
+          <attvalue for="clanid" value="69"/>
+          <attvalue for="countoflinid" value="32"/>
+        </attvalues>
+        <viz:size value="1.4000001"/>
+        <viz:position x="-302.02954" y="83.82578"/>
+        <viz:color r="126" g="0" b="236"/>
+      </node>
+      <node id="709" label="Longxi Li 隴西 李">
+        <attvalues>
+          <attvalue for="category" value="CS-E"/>
+          <attvalue for="clanid" value="127"/>
+          <attvalue for="countoflinid" value="170"/>
+        </attvalues>
+        <viz:size value="1.4000001"/>
+        <viz:position x="-172.55849" y="640.2698"/>
+        <viz:color r="0" g="80" b="244"/>
+      </node>
+      <node id="755" label="Jinchang Tang 晉昌 唐">
+        <attvalues>
+          <attvalue for="category" value="CS"/>
+          <attvalue for="clanid" value="52"/>
+          <attvalue for="countoflinid" value="2"/>
+        </attvalues>
+        <viz:size value="1.2"/>
+        <viz:position x="-226.44057" y="788.65515"/>
+        <viz:color r="0" g="115" b="244"/>
+      </node>
+      <node id="757" label="Tianshui Yin 天水 尹">
+        <attvalues>
+          <attvalue for="category" value="CS-E"/>
+          <attvalue for="clanid" value="188"/>
+          <attvalue for="countoflinid" value="2"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-267.2273" y="894.0801"/>
+        <viz:color r="0" g="80" b="244"/>
+      </node>
+      <node id="760" label="Jincheng Yang 金城 楊">
+        <attvalues>
+          <attvalue for="category" value="W"/>
+          <attvalue for="clanid" value="109"/>
+          <attvalue for="countoflinid" value="2"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-233.97794" y="714.94775"/>
+        <viz:color r="165" g="220" b="0"/>
+      </node>
+      <node id="828" label="Changji Murong 昌黎 慕容">
+        <attvalues>
+          <attvalue for="category" value="XB-I"/>
+          <attvalue for="clanid" value="3"/>
+          <attvalue for="countoflinid" value="36"/>
+          <attvalue for="i" value="I"/>
+        </attvalues>
+        <viz:size value="2.0"/>
+        <viz:position x="35.7694" y="-57.22433"/>
+        <viz:color r="118" g="0" b="210"/>
+      </node>
+      <node id="1168" label="Dai Mu 代 穆">
+        <attvalues>
+          <attvalue for="category" value="XB"/>
+          <attvalue for="clanid" value="139"/>
+          <attvalue for="countoflinid" value="62"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-179.63817" y="235.54402"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="1183" label="Changle Feng 長樂 馮">
+        <attvalues>
+          <attvalue for="category" value="NE-I"/>
+          <attvalue for="clanid" value="7"/>
+          <attvalue for="countoflinid" value="58"/>
+          <attvalue for="i" value="I"/>
+        </attvalues>
+        <viz:size value="1.6"/>
+        <viz:position x="-75.47497" y="10.070656"/>
+        <viz:color r="115" g="0" b="210"/>
+      </node>
+      <node id="1206" label="Dai Hegan 代 紇干">
+        <attvalues>
+          <attvalue for="category" value="XB"/>
+          <attvalue for="clanid" value="485"/>
+          <attvalue for="countoflinid" value="3"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-134.26245" y="261.4365"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="1369" label="Guangning Wang 廣寧 王">
+        <attvalues>
+          <attvalue for="category" value="XB"/>
+          <attvalue for="clanid" value="486"/>
+          <attvalue for="countoflinid" value="13"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-206.40501" y="175.69817"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="1377" label="Dai Luo 代 羅">
+        <attvalues>
+          <attvalue for="category" value="XB"/>
+          <attvalue for="clanid" value="11"/>
+          <attvalue for="countoflinid" value="20"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-405.94122" y="12.130305"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="3482" label="Kangju Kang 康居國 康">
+        <attvalues>
+          <attvalue for="category" value="W"/>
+          <attvalue for="clanid" value="394"/>
+          <attvalue for="countoflinid" value="5"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="6.576135" y="206.44861"/>
+        <viz:color r="165" g="220" b="0"/>
+      </node>
+      <node id="4131" label="Linsong Juqu 臨松 沮渠">
+        <attvalues>
+          <attvalue for="category" value="XN-I"/>
+          <attvalue for="clanid" value="406"/>
+          <attvalue for="countoflinid" value="6"/>
+          <attvalue for="i" value="I"/>
+        </attvalues>
+        <viz:size value="1.6"/>
+        <viz:position x="-87.521385" y="453.9359"/>
+        <viz:color r="126" g="0" b="236"/>
+      </node>
+      <node id="6927" label="Hexi tribe Ji 紇奚部 嵇">
+        <attvalues>
+          <attvalue for="category" value="XB"/>
+          <attvalue for="clanid" value="462"/>
+          <attvalue for="countoflinid" value="5"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-9.358717" y="145.45323"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="7264" label="Dai He 代 賀">
+        <attvalues>
+          <attvalue for="category" value="XB"/>
+          <attvalue for="clanid" value="33"/>
+          <attvalue for="countoflinid" value="9"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-77.49256" y="260.95953"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="7288" label="Weijun Du 魏郡 杜">
+        <attvalues>
+          <attvalue for="category" value="CS"/>
+          <attvalue for="clanid" value="489"/>
+          <attvalue for="countoflinid" value="11"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-33.906868" y="234.41298"/>
+        <viz:color r="0" g="115" b="244"/>
+      </node>
+      <node id="7320" label="Lelang Wang 樂浪 王">
+        <attvalues>
+          <attvalue for="category" value="NE-E"/>
+          <attvalue for="clanid" value="4"/>
+          <attvalue for="countoflinid" value="1"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-138.38744" y="-82.46537"/>
+        <viz:color r="13" g="0" b="207"/>
+      </node>
+      <node id="7988" label="Wuwei Meng 武威 孟">
+        <attvalues>
+          <attvalue for="category" value="CS"/>
+          <attvalue for="clanid" value="523"/>
+          <attvalue for="countoflinid" value="1"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="126.79825" y="878.73285"/>
+        <viz:color r="0" g="115" b="244"/>
+      </node>
+      <node id="8360" label="Liaoxi Duan 遼西 段">
+        <attvalues>
+          <attvalue for="category" value="XB"/>
+          <attvalue for="clanid" value="344"/>
+          <attvalue for="countoflinid" value="10"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="141.32872" y="-14.847773"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="8362" label="Liaodong Kezuhun 遼東 可足渾">
+        <attvalues>
+          <attvalue for="category" value="XB"/>
+          <attvalue for="clanid" value="577"/>
+          <attvalue for="countoflinid" value="7"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="158.42398" y="-72.72292"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="8375" label="Liaoxi Duan 遼西 段">
+        <attvalues>
+          <attvalue for="category" value="XB"/>
+          <attvalue for="clanid" value="344"/>
+          <attvalue for="countoflinid" value="4"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="119.598595" y="-116.44372"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="8381" label="Lueyang Fu 略陽 苻">
+        <attvalues>
+          <attvalue for="category" value="D-I"/>
+          <attvalue for="clanid" value="545"/>
+          <attvalue for="countoflinid" value="13"/>
+          <attvalue for="i" value="I"/>
+        </attvalues>
+        <viz:size value="2.6000001"/>
+        <viz:position x="74.68238" y="-262.90823"/>
+        <viz:color r="96" g="0" b="255"/>
+      </node>
+      <node id="8386" label="Lueyang Qiang 略陽 強">
+        <attvalues>
+          <attvalue for="category" value="D"/>
+          <attvalue for="clanid" value="546"/>
+          <attvalue for="countoflinid" value="3"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="87.25569" y="-367.50525"/>
+        <viz:color r="24" g="223" b="0"/>
+      </node>
+      <node id="8390" label="Lueyang Liang 略陽 梁">
+        <attvalues>
+          <attvalue for="category" value="D"/>
+          <attvalue for="clanid" value="547"/>
+          <attvalue for="countoflinid" value="2"/>
+        </attvalues>
+        <viz:size value="1.2"/>
+        <viz:position x="183.43727" y="-404.08426"/>
+        <viz:color r="24" g="223" b="0"/>
+      </node>
+      <node id="8392" label="Lueyang Mao 略陽 毛">
+        <attvalues>
+          <attvalue for="category" value="D"/>
+          <attvalue for="clanid" value="548"/>
+          <attvalue for="countoflinid" value="3"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="259.63104" y="-501.90445"/>
+        <viz:color r="24" g="223" b="0"/>
+      </node>
+      <node id="8398" label="Lueyang Gou 略陽 茍">
+        <attvalues>
+          <attvalue for="category" value="D"/>
+          <attvalue for="clanid" value="549"/>
+          <attvalue for="countoflinid" value="1"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="142.82315" y="-342.2177"/>
+        <viz:color r="24" g="223" b="0"/>
+      </node>
+      <node id="8399" label="Lueyang Gou 略陽 茍">
+        <attvalues>
+          <attvalue for="category" value="D"/>
+          <attvalue for="clanid" value="549"/>
+          <attvalue for="countoflinid" value="1"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="11.386641" y="-354.34372"/>
+        <viz:color r="24" g="223" b="0"/>
+      </node>
+      <node id="8402" label="Chouchi Di Yang 仇池氐 楊">
+        <attvalues>
+          <attvalue for="category" value="D"/>
+          <attvalue for="clanid" value="550"/>
+          <attvalue for="countoflinid" value="3"/>
+        </attvalues>
+        <viz:size value="1.2"/>
+        <viz:position x="56.848858" y="-176.95462"/>
+        <viz:color r="24" g="223" b="0"/>
+      </node>
+      <node id="8410" label="Wudu Di Mao 武都氐 毛">
+        <attvalues>
+          <attvalue for="category" value="D"/>
+          <attvalue for="clanid" value="551"/>
+          <attvalue for="countoflinid" value="2"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="185.05984" y="-296.93506"/>
+        <viz:color r="24" g="223" b="0"/>
+      </node>
+      <node id="8414" label="Nanan Yao 南安 姚">
+        <attvalues>
+          <attvalue for="category" value="Q-I"/>
+          <attvalue for="clanid" value="27"/>
+          <attvalue for="countoflinid" value="8"/>
+          <attvalue for="i" value="I"/>
+        </attvalues>
+        <viz:size value="1.4000001"/>
+        <viz:position x="-297.36713" y="236.54738"/>
+        <viz:color r="108" g="58" b="255"/>
+      </node>
+      <node id="8416" label="Luoyang Di Qi 洛陽氐 齊">
+        <attvalues>
+          <attvalue for="category" value="D"/>
+          <attvalue for="clanid" value="552"/>
+          <attvalue for="countoflinid" value="3"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-396.86676" y="310.93283"/>
+        <viz:color r="24" g="223" b="0"/>
+      </node>
+      <node id="8425" label="Longxi Qifu 隴西 乞伏">
+        <attvalues>
+          <attvalue for="category" value="XB-I"/>
+          <attvalue for="clanid" value="328"/>
+          <attvalue for="countoflinid" value="4"/>
+        </attvalues>
+        <viz:size value="1.4000001"/>
+        <viz:position x="14.513725" y="632.7642"/>
+        <viz:color r="118" g="0" b="210"/>
+      </node>
+      <node id="8426" label="Jincheng Bian 金城 邉">
+        <attvalues>
+          <attvalue for="category" value="W"/>
+          <attvalue for="clanid" value="553"/>
+          <attvalue for="countoflinid" value="3"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="87.37024" y="701.5603"/>
+        <viz:color r="165" g="220" b="0"/>
+      </node>
+      <node id="8436" label="Wuwei Meng 武威 孟">
+        <attvalues>
+          <attvalue for="category" value="CS"/>
+          <attvalue for="clanid" value="523"/>
+          <attvalue for="countoflinid" value="1"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-66.40556" y="538.37634"/>
+        <viz:color r="0" g="115" b="244"/>
+      </node>
+      <node id="8492" label="Lueyang She 略陽 虵">
+        <attvalues>
+          <attvalue for="category" value="D"/>
+          <attvalue for="clanid" value="560"/>
+          <attvalue for="countoflinid" value="1"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-419.59674" y="252.31616"/>
+        <viz:color r="24" g="223" b="0"/>
+      </node>
+      <node id="8495" label="Chouchi Di Yang 仇池氐 楊">
+        <attvalues>
+          <attvalue for="category" value="D"/>
+          <attvalue for="clanid" value="550"/>
+          <attvalue for="countoflinid" value="1"/>
+        </attvalues>
+        <viz:size value="1.2"/>
+        <viz:position x="58.397728" y="-437.6412"/>
+        <viz:color r="24" g="223" b="0"/>
+      </node>
+      <node id="8496" label="Di Fan 氐族 樊">
+        <attvalues>
+          <attvalue for="category" value="D"/>
+          <attvalue for="clanid" value="561"/>
+          <attvalue for="countoflinid" value="2"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="50.584106" y="-560.4958"/>
+        <viz:color r="24" g="223" b="0"/>
+      </node>
+      <node id="8498" label="Chouchi Di Yang 仇池氐 楊">
+        <attvalues>
+          <attvalue for="category" value="D"/>
+          <attvalue for="clanid" value="550"/>
+          <attvalue for="countoflinid" value="7"/>
+        </attvalues>
+        <viz:size value="1.2"/>
+        <viz:position x="-23.517097" y="-62.946865"/>
+        <viz:color r="24" g="223" b="0"/>
+      </node>
+      <node id="8502" label="Dai He 代 賀">
+        <attvalues>
+          <attvalue for="category" value="XB"/>
+          <attvalue for="clanid" value="33"/>
+          <attvalue for="countoflinid" value="6"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-198.1194" y="110.202965"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+      <node id="8931" label="Duolan tribe Poduoluo多蘭部 破多羅">
+        <attvalues>
+          <attvalue for="category" value="XB"/>
+          <attvalue for="clanid" value="575"/>
+          <attvalue for="countoflinid" value="2"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="-425.91663" y="70.997505"/>
+        <viz:color r="115" g="192" b="0"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="97" source="1183" target="828">
+        <viz:color r="218" g="0" b="78"/>
+        <attvalues>
+          <attvalue for="category" value="Con"/>
+        </attvalues>
+      </edge>
+      <edge id="46" source="49" target="1183">
+        <viz:color r="218" g="0" b="78"/>
+        <attvalues>
+          <attvalue for="category" value="Con"/>
+        </attvalues>
+      </edge>
+      <edge id="36" source="49" target="8502">
+        <viz:color r="0" g="141" b="13"/>
+        <attvalues>
+          <attvalue for="category" value="End"/>
+        </attvalues>
+      </edge>
+      <edge id="35" source="49" target="8498">
+        <viz:color r="0" g="10" b="220"/>
+        <attvalues>
+          <attvalue for="category" value="Vas"/>
+        </attvalues>
+      </edge>
+      <edge id="34" source="49" target="3482">
+        <viz:color r="159" g="0" b="255"/>
+        <attvalues>
+          <attvalue for="category" value="Dip"/>
+        </attvalues>
+      </edge>
+      <edge id="33" source="49" target="1206">
+        <viz:color r="0" g="141" b="13"/>
+        <attvalues>
+          <attvalue for="category" value="End"/>
+        </attvalues>
+      </edge>
+      <edge id="16" source="49" target="6927" weight="2.0">
+        <viz:color r="0" g="10" b="220"/>
+        <attvalues>
+          <attvalue for="category" value="Vas"/>
+        </attvalues>
+      </edge>
+      <edge id="15" source="49" target="4131" weight="2.0">
+        <viz:color r="218" g="0" b="78"/>
+        <attvalues>
+          <attvalue for="category" value="Con"/>
+        </attvalues>
+      </edge>
+      <edge id="14" source="49" target="7288" weight="2.0">
+        <viz:color r="0" g="10" b="220"/>
+        <attvalues>
+          <attvalue for="category" value="Vas"/>
+        </attvalues>
+      </edge>
+      <edge id="11" source="49" target="7264" weight="3.0">
+        <viz:color r="0" g="141" b="13"/>
+        <attvalues>
+          <attvalue for="category" value="End"/>
+        </attvalues>
+      </edge>
+      <edge id="10" source="49" target="8414" weight="4.0">
+        <viz:color r="218" g="0" b="78"/>
+        <attvalues>
+          <attvalue for="category" value="Con"/>
+        </attvalues>
+      </edge>
+      <edge id="9" source="49" target="1369" weight="3.0">
+        <viz:color r="0" g="141" b="13"/>
+        <attvalues>
+          <attvalue for="category" value="End"/>
+        </attvalues>
+      </edge>
+      <edge id="7" source="49" target="1168" weight="3.0">
+        <viz:color r="0" g="141" b="13"/>
+        <attvalues>
+          <attvalue for="category" value="End"/>
+        </attvalues>
+      </edge>
+      <edge id="6" source="49" target="110" weight="3.0">
+        <viz:color r="159" g="0" b="255"/>
+        <attvalues>
+          <attvalue for="category" value="Dip"/>
+        </attvalues>
+      </edge>
+      <edge id="2" source="49" target="828" weight="5.0">
+        <viz:color r="218" g="0" b="78"/>
+        <attvalues>
+          <attvalue for="category" value="Con"/>
+        </attvalues>
+      </edge>
+      <edge id="0" source="49" target="701" weight="11.0">
+        <viz:color r="218" g="0" b="78"/>
+        <attvalues>
+          <attvalue for="category" value="Con"/>
+        </attvalues>
+      </edge>
+      <edge id="13" source="110" target="1183" weight="2.0">
+        <viz:color r="159" g="0" b="255"/>
+        <attvalues>
+          <attvalue for="category" value="Dip"/>
+        </attvalues>
+      </edge>
+      <edge id="45" source="313" target="7988">
+        <viz:color r="0" g="10" b="220"/>
+        <attvalues>
+          <attvalue for="category" value="Vas"/>
+        </attvalues>
+      </edge>
+      <edge id="8" source="313" target="8425" weight="3.0">
+        <viz:color r="218" g="0" b="78"/>
+        <attvalues>
+          <attvalue for="category" value="Con"/>
+        </attvalues>
+      </edge>
+      <edge id="21" source="701" target="8931">
+        <viz:color r="0" g="10" b="220"/>
+        <attvalues>
+          <attvalue for="category" value="Vas"/>
+        </attvalues>
+      </edge>
+      <edge id="20" source="701" target="1377">
+        <viz:color r="0" g="10" b="220"/>
+        <attvalues>
+          <attvalue for="category" value="Vas"/>
+        </attvalues>
+      </edge>
+      <edge id="32" source="709" target="760">
+        <viz:color r="0" g="10" b="220"/>
+        <attvalues>
+          <attvalue for="category" value="Vas"/>
+        </attvalues>
+      </edge>
+      <edge id="24" source="709" target="4131">
+        <viz:color r="0" g="10" b="220"/>
+        <attvalues>
+          <attvalue for="category" value="Vas"/>
+        </attvalues>
+      </edge>
+      <edge id="22" source="709" target="755">
+        <viz:color r="0" g="10" b="220"/>
+        <attvalues>
+          <attvalue for="category" value="Vas"/>
+        </attvalues>
+      </edge>
+      <edge id="26" source="755" target="757">
+        <viz:color r="0" g="10" b="220"/>
+        <attvalues>
+          <attvalue for="category" value="Vas"/>
+        </attvalues>
+      </edge>
+      <edge id="31" source="828" target="8402">
+        <viz:color r="218" g="0" b="78"/>
+        <attvalues>
+          <attvalue for="category" value="Con"/>
+        </attvalues>
+      </edge>
+      <edge id="29" source="828" target="8375">
+        <viz:color r="0" g="141" b="13"/>
+        <attvalues>
+          <attvalue for="category" value="End"/>
+        </attvalues>
+      </edge>
+      <edge id="5" source="828" target="8362" weight="3.0">
+        <viz:color r="0" g="141" b="13"/>
+        <attvalues>
+          <attvalue for="category" value="End"/>
+        </attvalues>
+      </edge>
+      <edge id="3" source="828" target="8381" weight="4.0">
+        <viz:color r="218" g="0" b="78"/>
+        <attvalues>
+          <attvalue for="category" value="Con"/>
+        </attvalues>
+      </edge>
+      <edge id="1" source="828" target="8360" weight="5.0">
+        <viz:color r="0" g="141" b="13"/>
+        <attvalues>
+          <attvalue for="category" value="End"/>
+        </attvalues>
+      </edge>
+      <edge id="40" source="1183" target="7320">
+        <viz:color r="0" g="10" b="220"/>
+        <attvalues>
+          <attvalue for="category" value="Vas"/>
+        </attvalues>
+      </edge>
+      <edge id="95" source="4131" target="8425">
+        <viz:color r="0" g="10" b="220"/>
+        <attvalues>
+          <attvalue for="category" value="Vas"/>
+        </attvalues>
+      </edge>
+      <edge id="61" source="4131" target="8436">
+        <viz:color r="0" g="10" b="220"/>
+        <attvalues>
+          <attvalue for="category" value="Vas"/>
+        </attvalues>
+      </edge>
+      <edge id="72" source="8381" target="8390">
+        <viz:color r="0" g="141" b="13"/>
+        <attvalues>
+          <attvalue for="category" value="End"/>
+        </attvalues>
+      </edge>
+      <edge id="65" source="8381" target="8498">
+        <viz:color r="0" g="141" b="13"/>
+        <attvalues>
+          <attvalue for="category" value="End"/>
+        </attvalues>
+      </edge>
+      <edge id="64" source="8381" target="8495">
+        <viz:color r="0" g="141" b="13"/>
+        <attvalues>
+          <attvalue for="category" value="End"/>
+        </attvalues>
+      </edge>
+      <edge id="63" source="8381" target="8410">
+        <viz:color r="0" g="141" b="13"/>
+        <attvalues>
+          <attvalue for="category" value="End"/>
+        </attvalues>
+      </edge>
+      <edge id="62" source="8381" target="8402">
+        <viz:color r="0" g="141" b="13"/>
+        <attvalues>
+          <attvalue for="category" value="End"/>
+        </attvalues>
+      </edge>
+      <edge id="60" source="8381" target="8398">
+        <viz:color r="0" g="141" b="13"/>
+        <attvalues>
+          <attvalue for="category" value="End"/>
+        </attvalues>
+      </edge>
+      <edge id="58" source="8381" target="8386">
+        <viz:color r="0" g="141" b="13"/>
+        <attvalues>
+          <attvalue for="category" value="End"/>
+        </attvalues>
+      </edge>
+      <edge id="49" source="8381" target="8399">
+        <viz:color r="0" g="141" b="13"/>
+        <attvalues>
+          <attvalue for="category" value="End"/>
+        </attvalues>
+      </edge>
+      <edge id="66" source="8390" target="8392">
+        <viz:color r="0" g="141" b="13"/>
+        <attvalues>
+          <attvalue for="category" value="End"/>
+        </attvalues>
+      </edge>
+      <edge id="68" source="8414" target="8492">
+        <viz:color r="0" g="10" b="220"/>
+        <attvalues>
+          <attvalue for="category" value="Vas"/>
+        </attvalues>
+      </edge>
+      <edge id="67" source="8414" target="8416">
+        <viz:color r="0" g="10" b="220"/>
+        <attvalues>
+          <attvalue for="category" value="Vas"/>
+        </attvalues>
+      </edge>
+      <edge id="69" source="8425" target="8426">
+        <viz:color r="0" g="10" b="220"/>
+        <attvalues>
+          <attvalue for="category" value="Vas"/>
+        </attvalues>
+      </edge>
+      <edge id="75" source="8495" target="8496">
+        <viz:color r="0" g="141" b="13"/>
+        <attvalues>
+          <attvalue for="category" value="End"/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
