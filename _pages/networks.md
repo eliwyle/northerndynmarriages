@@ -13,6 +13,13 @@ toc: false
 
 
 The networks on this site were created with the use of Gephi. They model the marriage networks of the Northern Dynasties elite, built from a database of over nine thousand individuals.
+---
+# Sixteen Kingdoms marital networks
+<p>Interactive network of ruling families of the Sixteen Kingdoms (304-439 CE) Use the mouse to zoom, pan, and hover over nodes. </p>
+<div
+  id="16k-network"
+  class="sigma-container"
+  style="width: 100%; height: 800px; border: 1px solid #ddd;"></div>
 
 ---
 # Northern and Southern Dynasties complete marital networks
@@ -59,11 +66,17 @@ The networks on this site were created with the use of Gephi. They model the mar
       `;
     }
   }
+  
+  loadNetwork(
+    "16k-network",
+    "network-02ba4355-b8a.gexf"
+    );
 
   loadNetwork(
     "complete-network",
     "network-2835ae9d-602.gexf"
   );
+
 
   loadNetwork(
     "non-imperial-network",
