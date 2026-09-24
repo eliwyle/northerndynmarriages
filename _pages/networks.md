@@ -38,6 +38,7 @@ The networks on this site were created with the use of Gephi. They model the mar
       container.innerHTML = `<p style="color:#b00;padding:1em;">Error loading graph: ${err.message}</p>`;
     }
   </script>
+----
 
 # Non-imperial marriage networks of Northern Dynasties elite families
  <p>Interactive network of Northern Dynasties marriages. Use the mouse to zoom, pan, and hover over nodes.</p>
