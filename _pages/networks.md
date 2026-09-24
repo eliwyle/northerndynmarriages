@@ -9,13 +9,10 @@ toc: false
 — Excerpt from the 492 CE edict of Northern Wei Emperor Xiaowen (*Wei shu* 21A.534–535)
 
 ---
-
-
-
-The networks on this site were created with the use of Gephi. They model the marriage networks of the Northern Dynasties elite, built from a database of over nine thousand individuals.
+<p>The networks on this site were created with the use of Gephi. They model the marriage networks of the Northern Dynasties elite, built from a database of over nine thousand individuals.</p>
 ---
 # Sixteen Kingdoms marital networks
-<p>Interactive network of ruling families of the Sixteen Kingdoms (304-439 CE) Use the mouse to zoom, pan, and hover over nodes. </p>
+<p>Interactive network of ruling families of the Sixteen Kingdoms (304-439 CE). Marital connections include endogamous (green), diplomatic (purple), ruler-subject (blue), and conquest (red). Use the mouse to zoom, pan, and hover over nodes. </p>
 <div
   id="16k-network"
   class="sigma-container"
